@@ -9,7 +9,7 @@ h1{
   width: 150px;
 /*  margin: 20vh auto 0;*/
 /*  border: 1px solid gray;*/
-  margin: 1em 1em 2em;
+  margin-left: 1em;
   position:relative;
 }
 #ex1>.hint{
@@ -34,7 +34,7 @@ h1{
 	border:1px solid #c8c8c8;
 	color:#333;
 /*    margin: 20vh auto 0;*/
-    margin: 1em 1em 2em;
+    margin-left: 1em;
     text-align:center;
 }
 #ex2 p{
@@ -52,13 +52,13 @@ h1{
 
 /*ex.3*/
 #ex3{
-    margin: 1em 1em 2em;
+    margin-left: 1em;
 }
 
 
 /*ex.4*/
 #ex4{
-    margin: 1em 1em 2em;
+    margin-left: 1em;
 }
 #ex4 .go-board{
   font-size: 20px;
